@@ -39,7 +39,7 @@ unsigned long oldTime;
 SerialRelay relays(4, 5, NumModules); // (data, clock, number of modules)
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "PjMYdW3-5JAy1B_y5qJ3LmiR7AFIKnn3";
+char auth[] = "ADD_YOUR_TOKEN";
 
 #define W5100_CS  10
 //#define SDCARD_CS 4
